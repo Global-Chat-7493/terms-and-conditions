@@ -1,4 +1,6 @@
-## Terms and Conditions for Global Chat Image Service
+# Terms and Conditions
+
+## Global Chat Image Share
 
 Welcome to Global Chat Image Share (GCIS). GCIS is a platform that allows users to share images across multiple servers simultaneously. By using GCIS, you agree to the following terms and conditions:
 
