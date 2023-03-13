@@ -1,4 +1,4 @@
-## Terms and Conditions for Global Chat
+# Terms and Conditions
 
 Welcome to Global Chat (GC)! By using our services, you agree to these terms and conditions. Please read them carefully before using our platform.
 
